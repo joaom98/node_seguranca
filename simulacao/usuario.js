@@ -16,7 +16,7 @@ export class Usuario {
             }
         }
 
-        //console.log("USUÁRIO NÃO FOI AUTENTICADO")
+        console.log("USUÁRIO NÃO FOI AUTENTICADO")
         return false;
     }
 }
